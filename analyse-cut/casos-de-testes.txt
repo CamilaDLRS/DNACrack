@@ -1,0 +1,53 @@
+===========IDENTIFICANDO-AMINOACIDOS===========
+
+ATTGCTAGCAATGCTAGCAATTGCTAGCAATCAT
+ATTGCTAGCAATGCTAGCAATTGCTAGCAATTCT (posição 10)
+
+ATTGCTAGCAATGCTAATTGCTAGCAATTCAT (posição 5)
+
+msiqhmr
+
+
+APROVADOS
+-----------------------------------------------
+AACCTTCAGTTTTGTCAGTACC (não encontrado)
+
+AACCTTCAGTTTTGTAACTACCTA (posição 0)
+
+AACCTACAGTTTTGTCTATACC (posição 1)
+
+amjknaa
+
+APROVADOS
+
+=============RECORTANDO-CADEIAS================
+
+CTCGAAATCCGAATTCGTATCTAGAATTCCGTT
+GAATTC
+
+Saida: CTCGAAATCCG AATTCGTATCTAG AATTCCGTT  
+
+APROVADO
+
+-----------------------------------------------
+CTCGAAATCCGAATTCGTATCTAGAATTC
+GAATTC
+
+Saida: CTCGAAATCCG AATTCGTATCTAG AATTC 
+
+APROVADO
+-----------------------------------------------
+AAACTGACCTTGATCTGACCTAGGGCTG
+CTGA
+
+Saida: AAAC TGACCTTGATC TGACCTAGGGCTG
+
+APROVADO
+-----------------------------------------------
+ACCTCTCTATTACTCT
+CTCT
+
+Saida: ACC TCTCTATTAC TCT (conferir com o Murilo)
+
+APROVADO
+-----------------------------------------------

@@ -1,0 +1,39 @@
+recombine
+dna1 = TTGTCTATCTCCTA
+dna2 = tctACCTCTCTATTACTCTTC
+enzima = CTCT
+
+teste (matheus):
+1: gcaGTATCTATTGCAGTGATAATTCt
+2: CTCTTAATCCTGCAGTATCTATGCACTCTTATAATCC
+enzima: TGCA
+------------------------GLUE--------------------
+
+primeiro teste:
+1: aattCTCGAAATCCg acttCGTATCTAc acttCCGTTt cccGGGc
+2: aattGTATCTAt aattcGGg aattGATAg
+
+segundo teste:
+1: aattCTCGAAATCCg acttCGTATCTAa atttCCGTTt cccGGGc
+2: aattGTATCTAt aattcGGg atttGATAg cccGAGTTc
+
+terceiro teste:
+1: aattCTCGAAATCCg acttCGTATCTAc attCCGTTt cccGGGc
+2: aattGTATCTAt aattcGGg atttGATAg cccGAGTTc
+
+quarto teste: 
+1 = aaaTGTGc tttCACAa cccTAt tttGGg gggAAAAAa tatTTg ttccttGAGACAa
+2 = agcCCCa aaaCACg gggTt ctcAATa tttCACGa tatCCCCCg cccGGGGa atatatAAAc
+
+quinto teste (terceiro reduzindo):
+1: aattTCCg acttCTAc attTTt cccGGc
+2: aattGTAt aattcGGg atttGATAg cccGTc
+
+sexto teste (não aplicado):
+1: aattCTCGAAATCCg acttCGTATCTAc atttCCGTTt cccGGGc
+2: aattGTATCTAt aattcGGg atttGATAg cccGAGTTc
+
+setimo teste (não aplicado):
+1: ctcCTCGAAATCCg atcAAAATAc accTTGg atcAAAATAc
+2: aattCTCGAAATCCg aattCGTATCTAg aattCCGTTc
+------------------------------------------------
